@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hola, soy Gise Mora
 
-<!--
-**gisemora30-tech/gisemora30-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 QA Automation Engineer | Playwright | Cypress | API Testing
 
-Here are some ideas to get you started:
+Soy QA Manual en transición a QA Automation, construyendo proyectos reales para fortalecer mi portfolio profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- Playwright
+- Cypress
+- JavaScript
+- TypeScript
+- API Testing
+- Postman
+- Git & GitHub
+- CI/CD con GitHub Actions
+
+---
+
+## 📌 Proyecto destacado
+
+### 🎯 Playwright Automation Framework
+
+Framework de automatización QA utilizando:
+
+✅ Playwright  
+✅ Page Object Model (POM)  
+✅ UI Testing  
+✅ API Testing  
+✅ GitHub Actions  
+✅ Reportes HTML  
+
+🔗 Proyecto:
+https://github.com/gisemora30-tech/playwright-automation-framework
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Automatización avanzada con Playwright
+- CI/CD
+- Testing de APIs
+- Buenas prácticas de frameworks escalables
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: (pegá acá tu LinkedIn)
+- GitHub: https://github.com/gisemora30-tech
+
+---
+
+⭐ Gracias por visitar mi perfil
